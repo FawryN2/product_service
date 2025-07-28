@@ -5,7 +5,6 @@ import com.example.product_server.model.dto.ctegory.CategoryResponseDto;
 import com.example.product_server.model.dto.product.ProductResponseDto;
 
 import java.util.List;
-import java.util.Optional;
 
 public interface CategoryService {
 
